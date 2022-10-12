@@ -6,3 +6,6 @@
 * Exo 2 à faire complètement
 ## TP3
 * Exo 1 à finir
+* Exo 2 à faire
+## TP4
+* Tout faire
